@@ -36,5 +36,5 @@ print(sum(prices))
 print(sum(quantities)) 
 #################### END OF ADVANCED PROBLEM SET  -- end Bell Ringer  ####################
 
-#Pedro Luevanos
-#Adrian Lara
+#maxwelltheone
+#elpancho
